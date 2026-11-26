@@ -10,6 +10,10 @@ installation
 to install, clone the repository, or pick up the source code from the releases.
 that's all. (for linux)
 
+---------------------------------------------------------------------------------------------------
+
+windows installation
+--------------------
 to run beetles on windows, you will need to first install wsl.
 to do so, open command prompt and run the commands
 wsl --install   
