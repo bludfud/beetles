@@ -1,0 +1,18 @@
+___.                  __  .__                 
+\_ |__   ____   _____/  |_|  |   ____   ______
+ | __ \_/ __ \_/ __ \   __\  | _/ __ \ /  ___/
+ | \_\ \  ___/\  ___/|  | |  |_\  ___/ \___ \ 
+ |___  /\___  >\___  >__| |____/\___  >____  >
+     \/     \/     \/               \/     \/ 
+program written by bludfud_
+
+Just a simple program written up in a whim that shows you the lyrics to Beetles by Aphex Twin (Richard D. James).
+Please verify the checksum before running the script.
+
+Before running, you will need to do the following;
+1. Install mpv
+2. Obtain the song, rename it to mus.mp3, and move it to the folder
+3. Make sure your speakers/headphones are plugged up
+4. Run chmod +x beetles.sh
+And you'll be done! To start the program, run the command ./beetles.sh.
+If you get some errors, please make a issue post on Github.
